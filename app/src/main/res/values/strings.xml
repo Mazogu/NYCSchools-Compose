@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYCSchools-Compose</string>
+    <string name="num_test_takers">Number of Test Takers: %s</string>
+    <string name="avg_critical_reading_score">Average Critical Reading Score: %s</string>
+    <string name="avg_math_score">Average Math Score: %s</string>
+    <string name="avg_writing_score">Average Writing Score: %s</string>
+    <string name="no_school">No School Selected</string>
+    <string name="not_listed">Not Listed</string>
+    <string name="not_available">N/A</string>
+</resources>
